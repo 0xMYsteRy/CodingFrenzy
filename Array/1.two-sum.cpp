@@ -21,7 +21,10 @@ public:
                 return result;
             }
             map[nums[i]] = i;
-        }
+        } 
+
+
+        
         return result;       
     }
 };
